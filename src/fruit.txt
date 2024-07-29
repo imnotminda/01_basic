@@ -5,3 +5,5 @@ apple
 tomato
 melon
 orange
+kiwi
+mango
